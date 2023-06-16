@@ -1,5 +1,2 @@
 # ayuncraft
-
-An [Eaglercraft](https://github.com/LAX1DUDE/eaglercraft) fork
-
-if you want to use this code, be sure to link back to this repo!! (or else i WILL get on your ass)
+## This repository will be deleted imminently. Create a fresh fork ASAP to preserve it, you MUST fork a 100% fresh copy in order for the repository to be considered genuine
